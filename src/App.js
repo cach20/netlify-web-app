@@ -5,7 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img
+          src={"http://yourappland.com/animacion-2015/css/images/logo.png"}
+          className="App-logo"
+          alt="logo"
+        />
         <p>
           I love <code>ReactJs</code>.
         </p>
